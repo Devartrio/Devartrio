@@ -11,8 +11,14 @@ GitHub Token : https://github.com/settings/tokens
 
 https://github-readme-stats-r6amdft8d-devartrios-projects.vercel.app/api?username=devartrio&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api?username=devartrio&show_icons=true&theme=radical
+
+모든 커밋
+https://github-readme-stats-r6amdft8d-devartrios-projects.vercel.app/api?username=devartrio&show_icons=true&theme=radical&include_all_commits=true
+
+원본 
+https://github-readme-stats.vercel.app/api?username=devartrio&show_icons=true&theme=radical
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devartrio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-r6amdft8d-devartrios-projects.vercel.app/api?username=devartrio&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Devartrio/Devartrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
