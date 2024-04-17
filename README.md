@@ -19,6 +19,13 @@ https://github-readme-stats.vercel.app/api?username=devartrio&show_icons=true&th
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devartrio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# :mailbox_with_mail: Contacts
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/icd_everything/)](https://blog.naver.com/icd_everything/) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aqowjdtna@ajou.ac.kr)](mailto:aqowjdtna@ajou.ac.kr)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aqowjdtna@naver.com)](mailto:aqowjdtna@naver.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%EB%B0%B0-083b54248/)](https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%EB%B0%B0-083b54248/)
+
 <!--
 **Devartrio/Devartrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 -->
