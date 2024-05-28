@@ -1,4 +1,13 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9dcff5&height=180&text=Hello-World&animation=&fontColor=ffffff&fontSize=40" />
+
+# 🛠️ Tech Stacks
+<figure class="thrid">  
+  <a href="link"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+  <a href="link"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
+  <a href="link"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+</figure>
+
+# 🏅 Stats 
 
 <!-- 방문자수 관련 사이트
 https://hits.seeyoufarm.com/ 
