@@ -1,11 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9dcff5&height=180&text=Hello-World&animation=&fontColor=ffffff&fontSize=40" />
 
-# 🛠️ Tech Stacks
-<figure class="thrid">  
+# ✨ Tech Stacks
+<figure class="Tech Stacks">  
   <a href="link"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
   <a href="link"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
   <a href="link"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+  <a href="link"><img src="https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
 </figure>
+
+# 🛠️ Tools
+<!-- 형상관리 -->
+<div align="left">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/plasticscm-F05033.svg?style=for-the-badge&logo=plasticscm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tortoisesvn-F05033.svg?style=for-the-badge&logo=tortoisesvn&logoColor=white" />&nbsp
+</div>
+<!-- IDE -->
+<div align="left">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/rider-F05033.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/visualstudio-F05033.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />&nbsp
+</div>
 
 # 🏅 Stats 
 
