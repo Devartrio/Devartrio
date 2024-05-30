@@ -2,10 +2,10 @@
 
 # ✨ Tech Stacks
 <figure class="Tech Stacks">  
-  <a href="link"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+  <a href="link"><img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
   <a href="link"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
   <a href="link"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-  <a href="link"><img src="https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
+  <a href="link"><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
 </figure>
 
 # 🛠️ Tools
